@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LightsController</string>
+    <string name="sortBy">sortBy</string>
+</resources>
